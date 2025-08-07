@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I`m Muhammad Ahmad Jilani 👋
 
-<!--
-**mahmadj/mahmadj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Quant | Python Learner | Islamic Finance Enthusiast  
+📚 Studying Maths & Economics | Exploring Ethical FinTech & Quantitative Modelling  
+🧠 Building projects that merge data, code, and Islamic finance principles.
 
-Here are some ideas to get you started:
+## 🛠️ Projects I'm Working On:
+- 🧮 **Zakat Calculator** – Automating Zakat calculations based on net assets & nisab threshold
+- 💼 **Islamic Loan Simulator** – Visualising repayment without interest (Qard Hasan model)
+- 📈 **Charity Impact Dashboard** – Using data viz to show impact of sadaqah spending
+- 🕌 **Halal Investment Tracker** – Classifying halal stocks using APIs & screening
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach me on:
+- [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-jilani-a0582a323/)
