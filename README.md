@@ -1,7 +1,7 @@
 # Hi there, I`m Muhammad Ahmad Jilani 👋
 
-🎓 Aspiring Quant | Python Learner | Islamic Finance Enthusiast  
-📚 Studying Maths & Economics | Exploring Ethical FinTech & Quantitative Modelling  
+🎓 Aspiring Quant / Data Scientist | Specialising in Python & Financial Modelling   
+📚 Studying Maths & Economics | Exploring Islamic FinTech & Quantitative Modelling  
 🧠 Building projects that merge data, code, and Islamic finance principles.
 
 ## 🛠️ Projects I'm Working On:
